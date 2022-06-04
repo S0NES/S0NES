@@ -3,7 +3,7 @@ My name is Vinicius Scarabelli
 
 I'm information system Student that loves to create incredibly beautiful and functional websites!
 
-I lost my first account  [First Account](https://github.com/S0NES-zz), so now I'm trying to fill this account with my old project, maybe that is a good thing
+I lost my [first Account](https://github.com/S0NES-zz), so now I'm trying to fill this account with my old project, maybe that is a good thing
 
 • ❤️‍🔥 Passionate about "CSS" and "SCSS" and how they can change a web experience;
 <br/>• 📖Currently learning more about "JAVASCRIPT" frameworks such as node, flutter, react, etc...;
