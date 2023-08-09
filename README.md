@@ -5,10 +5,10 @@ I'm information system Student that loves to create incredibly beautiful and fun
 
 I lost my [first Account](https://github.com/S0NES-zz), so now I'm trying to fill this account with my old project, maybe that is a good thing
 
-• ❤️‍🔥 Passionate about "CSS" and "SCSS" and how they can change a web experience;
-<br/>• 📖Currently learning more about "JAVASCRIPT" frameworks such as node, flutter, react, etc...;
-<br/>• ❤️Really in love about the latest technologies involving Web & Mobile;
-<br/>• 🎮 I love to Play, Draw, Read and listen to podcast in my spare time;
+• ❤️‍🔥 Passionate about good UI that change a web experience for a user;
+<br/>• 📖Currently learning new JavaScript Frameworks such as React, Svelt, Vue, Etc..;
+<br/>• 📖Passionate in Java in SpringBoot to creation of APIs;
+<br/>• ❤️Really in love about the latest technologies involving Web & BackEnd development;
 
 ### 🕊️ Even the word hopeless isn't devoid of hope
 
