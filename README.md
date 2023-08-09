@@ -1,7 +1,7 @@
 # Hey 
 My name is Vinicius Scarabelli
 
-I'm information system Student that loves to create incredibly beautiful and functional websites!
+I'm Full Stach dDeveloper that loves to create incredibly beautiful and functional websites and resolve incredible hard problems with some creative insights!
 
 I lost my [first Account](https://github.com/S0NES-zz), so now I'm trying to fill this account with my old project, maybe that is a good thing
 
